@@ -1,0 +1,15 @@
+{
+  "unpublishedCollection": {
+    "name": "FactorACalcular",
+    "pageId": "Page1",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "actions": [],
+    "archivedActions": [],
+    "variables": [],
+    "userPermissions": []
+  },
+  "id": "Page1_FactorACalcular",
+  "deleted": false,
+  "gitSyncId": "6614a7f7f9f2083ab68dc352_66170158f691b60cc3899d12"
+}

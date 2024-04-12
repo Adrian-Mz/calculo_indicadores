@@ -1,0 +1,15 @@
+{
+  "unpublishedCollection": {
+    "name": "PrimerValor",
+    "pageId": "Page1",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "actions": [],
+    "archivedActions": [],
+    "variables": [],
+    "userPermissions": []
+  },
+  "id": "Page1_PrimerValor",
+  "deleted": false,
+  "gitSyncId": "6614a7f7f9f2083ab68dc352_661708fbd61198757a318c24"
+}

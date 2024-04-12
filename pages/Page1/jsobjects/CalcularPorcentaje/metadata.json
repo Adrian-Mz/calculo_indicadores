@@ -1,0 +1,15 @@
+{
+  "unpublishedCollection": {
+    "name": "CalcularPorcentaje",
+    "pageId": "Page1",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "actions": [],
+    "archivedActions": [],
+    "variables": [],
+    "userPermissions": []
+  },
+  "id": "Page1_CalcularPorcentaje",
+  "deleted": false,
+  "gitSyncId": "6614a7f7f9f2083ab68dc352_6616c4029aa69065a715dfb1"
+}
