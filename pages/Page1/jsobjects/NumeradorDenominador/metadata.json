@@ -1,0 +1,15 @@
+{
+  "unpublishedCollection": {
+    "name": "NumeradorDenominador",
+    "pageId": "Page1",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "actions": [],
+    "archivedActions": [],
+    "variables": [],
+    "userPermissions": []
+  },
+  "id": "Page1_NumeradorDenominador",
+  "deleted": false,
+  "gitSyncId": "6619c419fc7e85401569ef94_661a06eb3107142680f41911"
+}

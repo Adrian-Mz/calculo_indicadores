@@ -145,7 +145,7 @@ export default {
 				return 'El análisis de los resultados del indicador implica evaluar la cantidad de eventos de socialización realizados en relación con los objetivos de comunicación y participación ciudadana esteblecidos por la Dirección de Obras Públicas. Un aumento en el número de socializaciones puede indicar un esfuerzo para mejorar la transparencia y la participación de la comunidad en los proyectos de obras públicas. Sin embargo, también es importante considerar la calidad y el impacto de estas actividades en la percepción y el apoyo de la comunidad hacia los proyectos de infraestructura';
 				
 			default:
-				return 'Sin Análisis'
+				return ' '
 				
 		}
 		}

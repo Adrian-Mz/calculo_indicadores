@@ -4,7 +4,7 @@
     "boxShadow": "none",
     "mobileBottomRow": 37,
     "widgetName": "Button3",
-    "onClick": "{{CalcularPorcentaje.calcular();\nAnalisisValor.obtenerValorYCalcular();}}",
+    "onClick": "{{CalcularPorcentaje.calcular();\nAnalisisValor.obtenerValorYCalcular();\nNumeradorDenominador.enviarNumeros();\n}}",
     "buttonColor": "#223260",
     "dynamicPropertyPathList": [{"key": "onClick"}],
     "displayName": "Button",

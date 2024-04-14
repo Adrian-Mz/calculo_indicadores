@@ -1,0 +1,15 @@
+{
+  "unpublishedCollection": {
+    "name": "ValorParaSelect1",
+    "pageId": "Page1",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "actions": [],
+    "archivedActions": [],
+    "variables": [],
+    "userPermissions": []
+  },
+  "id": "Page1_ValorParaSelect1",
+  "deleted": false,
+  "gitSyncId": "6619c419fc7e85401569ef94_6619e2cefc7e85401569efeb"
+}
