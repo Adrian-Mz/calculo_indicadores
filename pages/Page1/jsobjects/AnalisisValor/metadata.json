@@ -1,15 +1,11 @@
 {
+  "gitSyncId": "6614a7f7f9f2083ab68dc352_661741bff691b60cc3899e67",
+  "id": "Page1_AnalisisValor",
   "unpublishedCollection": {
     "name": "AnalisisValor",
     "pageId": "Page1",
     "pluginId": "js-plugin",
     "pluginType": "JS",
-    "actions": [],
-    "archivedActions": [],
-    "variables": [],
-    "userPermissions": []
-  },
-  "id": "Page1_AnalisisValor",
-  "deleted": false,
-  "gitSyncId": "6614a7f7f9f2083ab68dc352_661741bff691b60cc3899e67"
+    "variables": []
+  }
 }
